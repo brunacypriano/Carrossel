@@ -1,0 +1,13 @@
+img{
+    top: 0;
+    left: 0;
+    height: 800px;
+    margin: auto;
+}
+carousel-item {
+    max-width: 600px;
+}
+.carrosel{
+    padding: 0 10px;
+}
+
