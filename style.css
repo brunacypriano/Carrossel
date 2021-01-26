@@ -16,10 +16,20 @@ carousel-item {
 @media only screen and (min-width: 600px) { 
 img{
     height: 500px;
+    width: 300px;
 }
 
 carousel-item {
-    max-width: 300px;
+    max-width: 200px;
 }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    img{
+        width: 200px;
+        height: 400px;
+    }
 
 }
