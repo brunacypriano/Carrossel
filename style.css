@@ -1,7 +1,20 @@
+@media only screen and (max-width: 600px) {
+
+    img{
+        width: 90%;
+        height: 100%;
+        margin: auto;  
+
+    }
+
+    
+}
+
+@media only screen and (min-width: 768px) {
 img{
     top: 0;
     left: 0;
-    height: 800px;
+    height: 750px;
   margin: auto;  
 }
 carousel-item {
@@ -25,14 +38,4 @@ carousel-item {
 
 }*/
 
-@media only screen and (max-width: 600px) {
-
-    img{
-        width: 200px;
-        height: 400px;
-        margin: auto;  
-
-    }
-
-    
 }
