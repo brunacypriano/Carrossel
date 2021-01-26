@@ -2,7 +2,7 @@ img{
     top: 0;
     left: 0;
     height: 800px;
-    margin: auto;
+  margin: auto;  
 }
 carousel-item {
     max-width: 600px;
@@ -30,6 +30,9 @@ carousel-item {
     img{
         width: 200px;
         height: 400px;
+        margin: auto;  
+
     }
 
+    
 }
