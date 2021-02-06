@@ -134,13 +134,7 @@ img{
       margin: auto; 
     }
 
-    img{
-        top: 0;
-        left: 0;
-        width: 75%;
-        height: 519px;
-      margin: auto; 
-    }
+
     .carousel-control-next{
         right:45px;
     }
