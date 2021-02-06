@@ -54,3 +54,68 @@ img{
 }
 
 }
+
+@media only screen and (min-width: 930px) {
+    img{
+        top: 0;
+        left: 0;
+        width: 75%;
+        height: 519px;
+      margin: auto; 
+    }
+
+}
+
+@media only screen and (min-width: 1068px) {
+    img{
+        top: 0;
+        left: 0;
+        width: 75%;
+        height: 600px;
+      margin: auto; 
+    }
+
+}
+
+
+@media only screen and (min-width: 1068px) {
+img{
+    top: 0;
+    left: 0;
+    width: 75%;
+    height: 519px;
+  margin: auto; 
+}
+
+}
+
+
+@media only screen and (min-width: 1180px) {
+    img{
+        top: 0;
+        left: 0;
+        width: 85%;
+        height: 650px;
+      margin: auto; 
+    }
+    }
+
+@media only screen and (min-width: 1300px) {
+    img{
+        top: 0;
+        left: 0;
+        width: 90%;
+        height: 731px;
+      margin: auto; 
+    }
+    }
+
+    @media only screen and (min-width: 1450px) {
+    img{
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 800px;
+      margin: auto; 
+    }
+    }
